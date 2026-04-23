@@ -1,1 +1,7 @@
+# E-COMMERCE 🛒📱
 
+### PROBLEMA
+
+### SOLUÇÃO
+
+### TECNOLOGIAS UTILIZADAS
